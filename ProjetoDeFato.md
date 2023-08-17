@@ -1,1 +1,1 @@
-Aqui é onde fica o projeto em si, provavelmente sendo será um arquivo em python, já que lido com projetos de ciência de dados
+Aqui é onde fica o projeto em si, provavelmente será um arquivo em python, já que lido com projetos de ciência de dados
